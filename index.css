@@ -1,0 +1,9 @@
+img{
+	opacity: 0.1;
+}
+img:hover {
+  opacity: 1.0;
+}
+#random{
+	opacity: 1.0;
+}
